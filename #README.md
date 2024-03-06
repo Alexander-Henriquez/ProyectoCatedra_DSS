@@ -46,7 +46,7 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
 ## Créditos
 
-Desarrollado por [Tu Nombre](https://github.com/tu-usuario).
+Desarrollado por krrm08(https://github.com/krrm08).
 Desarrollado por [Tu Nombre](https://github.com/tu-usuario).
 Desarrollado por [Tu Nombre](https://github.com/tu-usuario).
 Desarrollado por [Tu Nombre](https://github.com/tu-usuario).
