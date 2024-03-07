@@ -46,14 +46,14 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
 ## Créditos
 
-Desarrollado por [Tu Nombre](https://github.com/tu-usuario).
-Desarrollado por [Tu Nombre](https://github.com/tu-usuario).
-Desarrollado por [Tu Nombre](https://github.com/tu-usuario).
-Desarrollado por [Tu Nombre](https://github.com/tu-usuario).
-Desarrollado por [Tu Nombre](https://github.com/tu-usuario).
+Desarrollado por [Oswaldo Alexander Henriquez Miranda](https://github.com/Alexander-Henriquez).
+Desarrollado por [Jorge Nahum Mira Flores](https://github.com/JorgeMiraFlores).
+Desarrollado por [Kevin Ramires Montiel ](https://github.com/krrm08).
+Desarrollado por [Diego Enrique Canjura Estrada](https://github.com/Knjuu).
+Desarrollado por [Jose Rolando Alvarez Mejia](https://github.com/Josepo616).
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [License.tx](License.tx) para más detalles.
 
 
