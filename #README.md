@@ -46,11 +46,19 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
 ## Créditos
 
+<<<<<<< HEAD
 Desarrollado por [Oswaldo Alexander Henriquez Miranda](https://github.com/Alexander-Henriquez).
 Desarrollado por [Jorge Nahum Mira Flores](https://github.com/JorgeMiraFlores).
 Desarrollado por [Kevin Ramires Montiel ](https://github.com/krrm08).
 Desarrollado por [Diego Enrique Canjura Estrada](https://github.com/Knjuu).
 Desarrollado por [Jose Rolando Alvarez Mejia](https://github.com/Josepo616).
+=======
+Desarrollado por krrm08(https://github.com/krrm08).
+Desarrollado por [Tu Nombre](https://github.com/tu-usuario).
+Desarrollado por [Tu Nombre](https://github.com/tu-usuario).
+Desarrollado por [Tu Nombre](https://github.com/tu-usuario).
+Desarrollado por [Tu Nombre](https://github.com/tu-usuario).
+>>>>>>> b2ec1782f8b77af1fd4bf70e0fd5d117f74cbd2c
 
 ## Licencia
 
